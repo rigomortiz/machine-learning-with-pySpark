@@ -1,0 +1,44 @@
+﻿
+identifier: DCAT-MEX-INEGI-(IPL-ICUMO)-2000-2023
+
+title: Índice de Productividad Laboral Índice del Costo Unitario de la Mano de Obra. IPL_ICUMO. 2000-2023, cifras preliminares al primer trimestre.
+
+description: Índice de Productividad Laboral e Índice de Costo Unitario de la Mano de Obra.   
+En el contexto del Cambio de Año Base 2013 de las Encuestas Económicas Nacionales que fue publicado durante el mes de mayo de 2019, los Indicadores de Productividad Laboral y del Costo Unitario de la Mano de Obra de las Empresas Constructoras, Industrias Manufactureras, Comercio al por Mayor, Comercio al por Menor y de los Servicios Privados no Financieros, se actualizaron a partir de la difusión correspondiente al primer trimestre de 2019; lo anterior, con el propósito de difundir las nuevas series Base 2013=100 a fin de estar en concordancia con la fuente de información utilizada para su cálculo.    
+
+La finalidad del IPL e ICUMO, es conocer y evaluar la eficiencia del aporte del factor trabajo al proceso productivo; planear y tomar las decisiones para lograr un uso más eficiente del capital humano y apoyar la realización de diagnósticos y el diseño e instrumentación de políticas públicas. Se calcula tanto para la Productividad Laboral para la Economía en su conjunto, así como para Empresas Constructoras, Industria Manufacturera, Comercio al por Mayor, Comercio al por Menor y Servicios Privados No Financieros.
+         
+El Índice Global de Productividad Laboral de la Economía (IGPLE) se genera al relacionar dos variables agregadas de la economía del país, obtenidas de fuentes de información diferentes, El Sistema de Cuentas Nacionales de México (SCNM) que genera el Producto Interno Bruto (PIB) trimestral base 2013, a precios básicos y en términos reales y la Encuesta Nacional de Ocupación y Empleo (ENOE), misma que capta información trimestral del número de ocupados en el país y del número de horas trabajadas.  
+Como resultado de la relación entre ambas variables, es factible obtener tanto el PIB por persona ocupada como el PIB por hora trabajada. Es importante señalar que el PIB trimestral con estatus preliminar que genera el SCNM es actualizable, razón por la cual los índices relacionados con la Economía Global, las Actividades Primarias, Secundarias y Terciarias, publicados pueden presentar diferencias atribuibles a la actualización del PIB.
+    
+Nota al usuario, primer trimestre 2023: Tal como informó el Instituto Nacional de Estadística y Geografía (INEGI) el pasado 26 de abril, a partir del mes de junio del presente año se difundirán las nuevas estadísticas de las Encuestas Económicas Nacionales correspondientes a la Serie 2018. En este contexto, se comunica a los usuarios que con la presente publicación concluye la difusión de los Índices de Productividad Laboral y del Costo Unitario de la Mano de Obra de la Serie 2013.
+
+Conforme a lo anterior, el próximo 8 de septiembre de 2023 dará inicio la difusión de dichos índices con base en la nueva Serie 2018.
+ 
+El Índice Global de Productividad Laboral de la Economía (IGPLE) se actualiza para los cuatro trimestres de 2013 a partir de los datos difundidos por la Encuesta Nacional de Ocupación y Empleo (ENOEN), así como los referentes a los cuatro trimestres de 2022 debido a la actualización del Producto Interno Bruto (PIB). Dada la actualización de los índices del 2013, año base de los indicadores, todas las series del IGPLE se actualizan.
+
+La Tasa de No Respuesta de las Encuestas Económicas Nacionales que se consideran para la integración de los Índices de Productividad Laboral y del Costo Unitario de la Mano de Obra, correspondiente al primer trimestre de 2023, registró porcentajes apropiados conforme al diseño estadístico de las encuestas, lo que permitió la generación de estadísticas con niveles altos de cobertura y precisión estadística para su integración en los índices del periodo de referencia.
+
+Nota aclaratoria: El personal ocupado reportado en este Programa Estadístico es conceptualmente diferente (ver metadatos) a la definición de puestos de trabajo afiliados al Instituto Mexicano del Seguro Social.
+
+modified: 2023-06-07
+
+publisher: Instituto Nacional de Estadística y Geografía, INEGI 
+
+mbox: atencion.usuarios@inegi.org.mx 
+
+license: https://www.inegi.org.mx/inegi/terminos.html
+
+dataDictionary: 
+
+keyword: "IPL", "ICUMO", "índice de productividad laboral", "índice del costo unitario de la mano de obra", "productividad laboral", "costo unitario de la mano de obra", "índice de productividad", "índice de la mano de obra"
+
+contactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+temporal: 2000-1T-2023-1T
+
+spatial: Estados Unidos Mexicanos 
+
+accrualPeriodicity: Trimestralmente 
+
+distribution: https://www.inegi.org.mx/programas/iplcumo/2013/

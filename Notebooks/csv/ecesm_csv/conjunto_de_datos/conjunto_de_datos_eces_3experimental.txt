@@ -1,0 +1,8 @@
+﻿"Comentarios del Tabulado."
+"La suma de los parciales puede no coincidir con los totales debido al redondeo de las cifras."
+"Leyendas."
+"C1","Se refiere a los pagos por concepto de remuneración en un periodo contable, incluyendo a los socios-trabajadores considerados como trabajadores asalariados."
+"C2","Incluye 1122 Explotación de porcinos; 1124 Explotación de ovinos y caprinos; 1125 Acuicultura; 1129 Explotación de otros animales; 1131 Silvicultura; 1132 Viveros forestales y recolección de productos forestales; 1133 Tala de árboles; 1141 Pesca; 1142 Caza y captura; 1151 Servicios relacionados con la agricultura; 1152 Servicios relacionados con la cría y explotación de animales; 1153 Servicios relacionados con el aprovechamiento forestal."
+"P","Preliminar"
+"No Aplica.","NA"
+"No Significativo.","NS"

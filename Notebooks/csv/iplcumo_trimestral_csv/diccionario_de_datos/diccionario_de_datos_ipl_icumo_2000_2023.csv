@@ -1,0 +1,12 @@
+﻿COLUMNA,DESCRIPCION,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+SECTOR,Identificador del sector.,Varchar,20,"SCNM, Construcción, Manufacturas, Comercio, Servicios"
+ENTIDAD,Clave y nombre de la  entidad.,Varchar,50,"00-Nacional, 01-Aguascalientes a 32-Zacatecas"
+CODIGO_ACTIVIDAD,"Código que identifica las diversas actividades económicas bajo estudio (Sector, subsector, rama o clase).",Nvarchar,6,"vacío, G01, G11, G21, G31, 23, 31-33 a 3399,43 a 4691, 48-49, 51, 53, 54, 56, 61, 62, 71, 72"
+CATEGORIA_ACTIVIDAD,"Especifica la actividad económica donde Clase, Rama, Sector y Subsector.",Varchar,20,"Gran Sector, Sector, Subsector, Rama"
+DENOMINA,Descripción del sector.,Varchar,MAX,
+ID_INDICE,Abreviatura del índice.,Varchar,250,
+NOMBRE_INDICE,Nombre del índice.,Varchar,MAX,
+ANIO,Identificador del año al cual se refiere la información.,Int,,2000 a 2023
+TRIMESTRE,Indentificador del trimestre al cual se refiere la informacion.,Varchar,2,"1T,2T,3T,4T"
+INDICE,Dato del índice indicado por el ID_INDICE y/o NOMBRE_INDICE.,Numeric,"4,8",0.0 - 9999.99999999
+ESTATUS,"Descripción de estatus de los datos. El estatus de la información puede ser: Cifras definitivas, Cifras revisadas, Cifras preliminares, Cifras ajustadas, Cifras corregidas.",Varchar,100,"Cifras definitivas, Cifras revisadas, Cifras preliminares, Cifras ajustadas, Cifras corregidas"

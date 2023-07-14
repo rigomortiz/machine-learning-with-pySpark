@@ -1,0 +1,6 @@
+﻿"Comentarios del Tabulado."
+"La suma de los parciales puede no coincidir con los totales debido al redondeo de las cifras."
+"Leyendas."
+"C1","Se refiere a los pagos por concepto de remuneración en un periodo contable, incluyendo a los socios-trabajadores considerados como trabajadores asalariados."
+"C2","Incluye 21 Minería; 22 Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final; 23 Construcción; 51 Información en medios masivos; 53 Servicios inmobiliarios y de alquiler de bienes muebles e intangibles; 55 Corporativos; 61 Servicios educativos; 62 Servicios de salud y de asistencia social y 81 Otros servicios excepto actividades gubernamentales. Y sector 93 Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales sólo para la Economía Nacional."
+"P","Preliminar"

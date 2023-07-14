@@ -1,0 +1,7 @@
+﻿"Comentarios del Tabulado."
+"La suma de los parciales puede no coincidir con los totales debido al redondeo de las cifras."
+"Leyendas."
+"C1","Incluye al personal remunerado dependiendiente de la razón social y a los propietarios, familiares y otros trabajadores no remunerados."
+"C2","La apertura del sector agropecuario está clasificado por tenencia de la tierra, excepto pesca, caza y actividades relacionadas (ejidos y comunidades)."
+"C3","Incluye Unión de SPR."
+"P","Preliminar"

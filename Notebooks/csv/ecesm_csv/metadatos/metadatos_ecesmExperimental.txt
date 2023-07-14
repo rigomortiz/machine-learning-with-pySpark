@@ -1,0 +1,30 @@
+﻿
+Identifier:   DCAT-MEX-INEGI-SCNM.ECESM-104
+
+Title:   Sistema de Cuentas Nacionales de México. Estudio de caso de la economía social de México, 2013 y 2018
+
+Description:   INEGI. Sistema de Cuentas Nacionales de México. Estudio de caso de la economía social de México. 
+
+Proveen información de las actividades económicas realizadas por los organismos del sector social de la economía, tales como el  aporte al Producto Interno Bruto y al empleo.
+
+Modified:   2022-11-04
+
+Publisher:   Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox:   atencion.usuarios@inegi.org.mx
+
+License:   https://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary:   
+
+Keyword:   "PIB", "economía social", "estudio de caso de la economía social", "sector social de la economía", "cooperativismo", "cooperativas"
+
+ContactPoint:   Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal:   2013-2018
+
+Spatial:   Estados Unidos Mexicanos
+
+AccrualPeriodicity:   Indefinido
+
+Distribution:   http://www.inegi.org.mx/investigacion/ecesm/

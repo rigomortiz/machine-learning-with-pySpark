@@ -1,0 +1,7 @@
+﻿"Comentarios del Tabulado."
+"La suma de los parciales puede no coincidir con los totales debido al redondeo de las cifras."
+"Leyendas."
+"C1","Se refiere a los pagos por concepto de remuneración en un periodo contable, incluyendo a los socios-trabajadores considerados como trabajadores asalariados."
+"C2","La apertura del sector agropecuario está clasificado por tenencia de la tierra, excepto pesca, caza y actividades relacionadas (ejidos y comunidades)."
+"C3","Incluye Unión de SPR."
+"P","Preliminar"
